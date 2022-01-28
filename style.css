@@ -1,0 +1,73 @@
+body{
+    background: #b2dde0;
+    margin: auto;
+    max-width: 900px;
+    text-align: center;
+}
+
+.post{
+    border: solid 3px black;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    width: 900px;
+    font-size: 20px;
+}
+
+.img1{
+    border-radius: 50%;
+}
+
+
+.subtitle{
+    font-family: 'Franklin Gothic Medium';
+    text-transform: uppercase;
+    background-color: #505050;
+    color: cyan;
+
+}
+
+#title{
+    color: cyan;
+    font-family: franklin gothic medium;
+    font-style: normal;
+    font-size: 30px;
+    font-weight: bolder;
+    background:#505050;
+    text-align: center;
+    font-weight: bolder;
+}
+
+a{
+    text-decoration: none;
+}
+.post_title{
+    font-size: 25px;
+    font-style: normal;
+    font-family: 'Franklin Gothic Medium';
+    margin: 0;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+}
+.post_content{
+    margin: 0;
+    margin-bottom: 15px;
+
+}
+.post_image{
+    margin-bottom: 15px;
+    max-width: 30%;
+    background-color: #ce4141;
+    border-radius: 100%;
+
+}
+
+.contacts_list{
+    list-style-type: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    padding-left: 15px;
+
+}
+.contacts_list li a{
+    text-decoration: none;
+}
